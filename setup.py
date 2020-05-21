@@ -1,6 +1,7 @@
 from setuptools import setup, find_packages
 
-from dinogame import __version__
+__version__ = "0.0"
+exec(open("./dinoskynet/version.py").read())
 
 with open('README.md') as f:
     _LONG_DESCRIPTION = f.read()
