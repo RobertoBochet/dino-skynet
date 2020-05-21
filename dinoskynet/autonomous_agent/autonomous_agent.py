@@ -133,9 +133,9 @@ class AutonomousAgent:
         if player is not None:
             _, p_x, _, _ = player
 
-            for x, _, _, _ in obstacles:
+            for x, _, y, _ in obstacles:
                 # if obstacle is close -> jump
-                if x - p_x < 30:
+                if x - p_x < 30 and y > 60:
                     need_jump = True
 
             # do the action with priorities
