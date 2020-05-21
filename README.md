@@ -1,9 +1,10 @@
 # Dino Skynet
 
-[![PyPI - License](https://img.shields.io/pypi/l/dino-skynet)](https://pypi.org/project/dino-skynet/)
+[![GitHub](https://img.shields.io/github/license/RobertoBochet/dino-skynet)](https://github.com/RobertoBochet/dino-skynet/)
 [![PyPI](https://img.shields.io/pypi/v/dino-skynet)](https://pypi.org/project/dino-skynet/)
 [![PyPI - Status](https://img.shields.io/pypi/status/dino-skynet)](https://pypi.org/project/dino-skynet/)
 ![GitHub last commit](https://img.shields.io/github/last-commit/robertobochet/dino-skynet)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/RobertoBochet/dino-skynet/Upload Python Package)](https://pypi.org/project/dino-skynet/)
 ![gluten free](https://img.shields.io/badge/gluten%20free-100%25-success)
 
 A simple implementation of an autonomous agent which exploits OpenCV to play the famous dino game
