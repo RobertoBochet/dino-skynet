@@ -11,7 +11,7 @@ A simple implementation of an autonomous agent which exploits OpenCV to play the
 
 ## Installation
 
-You can install it from pypi
+You can install it from [`pypi`](https://pypi.org/project/dino-skynet/).
 
 ```bash
 pip install dino-skynet
@@ -27,7 +27,7 @@ To try the game
 python -m dinoskynet
 ```
 
-press `spacebar` to start the game
+Press `spacebar` to start the game.
 
 ## Credits
 
